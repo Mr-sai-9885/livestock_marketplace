@@ -1,4 +1,3 @@
-# livestock_marketplace
 
 # Livestock Marketplace (Prototype)
 
